@@ -68,3 +68,9 @@ form.addEventListener("submit", function(event) {
 });
 ```
 This script can be extended or modified to include additional validation logic as needed for your application.
+
+## output
+
+![Screenshot (389)](https://github.com/DeepikaA2004/Registration-form/assets/110418508/f3fc9116-bb49-46e1-8443-d3f545d0c212)
+
+
