@@ -56,7 +56,7 @@ Feel free to modify the styling to match your project's design guidelines.
 ## Form Validation
 The form includes a simple JavaScript script to validate that the entered password and confirmed password match before submission. If the passwords do not match, an alert is displayed, and form submission is prevented.
 ``` javascript
-Copy code
+
 const form = document.getElementById("user-registration-form");
 form.addEventListener("submit", function(event) {
   const password = form.querySelector("#password").value;
